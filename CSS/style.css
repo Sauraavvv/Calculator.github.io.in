@@ -8,7 +8,7 @@
 .box{
     width: 100%;
     height: 100vh;
-    background: url('/images/desktop-1920x1080.jpg');
+    background: url('../images/desktop-1920x1080.jpg');
     display: flex;
     align-items: center;
     justify-content: center;
